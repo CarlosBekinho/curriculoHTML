@@ -1,0 +1,215 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    background-color:#FAFAFA;
+    
+}
+#profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+    
+    
+}
+#header{
+    background-color: white;
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px
+}
+#top{
+    
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    border:3px groove #013147;
+    border-radius:50%;
+}
+#title{
+    background-color: white;
+    margin-top: 0px;
+    border:solid ;
+    border-color: white;
+    
+    
+    
+}
+#name{
+    text-align: center;
+    font-weight: bolder;
+    margin: 0px;
+    color: #013147;;
+    
+}
+#subName{
+    text-align: center;
+    font-style:oblique;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+#dados{
+    
+    
+    background-color:#013147;
+    border-radius: 5px;
+    text-align: left;
+    padding: 15px;
+    margin: 0px;
+    
+}
+
+a{
+    text-decoration:underline;
+    color: #FAFAFA;
+    
+}
+.lateral{
+    display: grid;
+    grid-template-columns: 350px 3fr 1fr;
+    
+   
+    
+    
+       
+    
+    
+}
+
+
+#dados h3{
+    color: #FAFAFA;
+    font-size: 16px;  
+    padding: 10px;  
+    margin-bottom: 10px;  
+}
+#dados p{
+    color: #FAFAFA;
+}
+ ul{
+    list-style-type:none;
+    padding: 10px;
+   
+    
+    
+}
+li{
+    margin: 10px;
+    font-size: 13px;
+    color: #FAFAFA;
+    margin-top: 0px;
+    
+}
+p{
+    margin: 2px;
+    margin-left: 5px;
+    font-size: 13px;
+}
+h6{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    padding: 5px;
+    color: #03a9f4;
+}
+#formacao{
+    margin-bottom: 25px;
+
+}
+
+
+
+.basico{
+    
+    font-weight: bolder;
+    color: #03a9f4;
+   
+}
+
+#idioma{
+    margin-top: 20px;
+}
+
+
+.lateral h2{
+    text-align: left;
+}
+
+
+
+.item{
+    text-align: left;
+    padding: 0px 0px 0px 30px;
+    color: #013147;
+    font-size: 25px;
+    margin-bottom: 20px;
+    
+}
+
+.conteudo{
+    font-size: 16px;
+    text-align: left;
+    margin-left: 50px;
+    /* font-style: italic; */
+    grid-column: 2;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+
+.fa-solid, .fa-brands {
+    margin-right: 10px;
+
+}
+
+.grid-conteudo{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    
+    
+    
+}
+
+.conteudo-ano{
+   text-align: right;
+   padding: 40px;
+   color: rgba(0, 0, 0, 0.5);
+   
+}
+.grid-conteudo h3{
+    text-align:left;
+    color: #013147;
+    font-size: 20px;
+    padding: 0px;
+    
+        
+ }
+.grid-conteudo p{
+    text-align: left;
+    margin: 0px;
+    margin-top: 0px;
+}
+
+.item-dois{
+    margin-bottom: 0px;
+    
+
+}
+.ladoDireito{
+    margin-left: 40px;
+}
+
+.grid-item{
+    margin-top: 17px;
+}
+    
+
+    
+    
+    
+    
+
